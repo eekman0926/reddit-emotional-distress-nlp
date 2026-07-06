@@ -4,7 +4,8 @@ NLP project classifying emotional distress in Reddit posts using manual labels a
 ## Links
 
 - Portfolio: [Eric Ekman Data Science Portfolio](https://github.com/eekman0926/data-science-portfolio)
-- HTML Report: [View report source file](report/nlp_project.html)
+- Project Website: [View GitHub Pages site](https://eekman0926.github.io/reddit-emotional-distress-nlp/)
+- Rendered HTML Report: [View report](https://eekman0926.github.io/reddit-emotional-distress-nlp/report/nlp_project.html)
 - Notebook: [View Jupyter notebook](notebooks/nlp_project.ipynb)
 - Final Report: [View final report](report/final_report.pdf)
 - Conference Paper: [View conference paper](report/conference_paper.docx)
