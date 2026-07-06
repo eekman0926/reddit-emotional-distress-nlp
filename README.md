@@ -13,5 +13,4 @@ NLP project classifying emotional distress in Reddit posts using manual labels a
 - Label Definitions: [View label definitions](documentation/label_definitions.docx)
 - Labeling Decision Checklist: [View labeling checklist](documentation/labeling_decision_checklist.docx)
 - Presentation Slides: [View PowerPoint slides](presentation/presentation_slides.pptx)
-- Presentation PDF: [View presentation PDF](presentation/DATA641_Presentation_Final_Report-1.pdf)
 - Data Note: [View data README](data/README.md)
